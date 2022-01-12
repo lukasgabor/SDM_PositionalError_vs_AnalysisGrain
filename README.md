@@ -1,12 +1,17 @@
-# SDM_PositionalError_vs_AnalysisGrain
-Step-by-step guideline for generating virtual species, sampling occurrence data and simulating positional error
+# Positional errors are not overcome by the coarser grains
+This repository was created as a supporting material for the article exploring the trade-offs between positional error and analysis grain in species distribution modeling. 
 
 Code author: [Lukas Gabor](https://scholar.google.cz/citations?user=pLQXY5wAAAAJ&hl=cs)
 
-Relevant paper:
-Brodie et al. (2019).Ecography. Trade-offs in covariate selection for species distribution models: a methodological comparison. doi: 10.1111/ecog.04707
+Date: 01/12/2022
 
-File Description:
-1. Simulation_Function: function to simulate species presence and abundance in time and space, and with respect to environmental habitat preferences.
+**Relevant paper:**
+Here I will add the paper citation
 
-2. Shape: png images imported into the Simulated_Function to change spatiotemporal modles between high, medium, and low
+**File Description:**
+
+R_Script: Step-by-step guideline for generating virtual species, sampling occurrence data and simulating positional error.
+Note that we can not provide the LiDAR data, we used for generating virtual species, because they are owned by Krkonose Mountains National Park (available upon request for research purposes). Thus, we created a `vs` object that can be used to recreate the data. The `vs` object can be downloaded [here](https://drive.google.com/file/d/1f7ebUrg9NHzYIxw23TOOwFOg3LnGD661/view?usp=sharing).
+
+
+
