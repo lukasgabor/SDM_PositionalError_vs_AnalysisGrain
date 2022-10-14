@@ -6,7 +6,8 @@ Code author: [Lukas Gabor](https://scholar.google.cz/citations?user=pLQXY5wAAAAJ
 Date: 01/12/2022
 
 **Relevant paper:**
-Here I will add the paper citation
+
+***Gábor, L., Jetz, W., Lu, M., Rocchini, D., Cord, A., Malavasi, M., ... & Moudrý, V. (2022). Positional errors in species distribution modelling are not overcome by the coarser grains of analysis. Methods in Ecology and Evolution.***
 
 **File Description:**
 
